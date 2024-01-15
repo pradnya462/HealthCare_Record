@@ -65,6 +65,6 @@ DATABASE contains the dbURI of MongoDB connections and SECRET_KEY contains Secre
 
 ## Authors
 
-- [@rohitvpatil0810](https://www.github.com/rohitvpaitl0810)
-- [@jayesh1602](https://www.github.com/jayesh1602)
+Pradnya patil
+
 
